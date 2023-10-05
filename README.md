@@ -5,3 +5,7 @@
 3. We have container with 2 divs
 4. Div 1 is new task with input text and add button
 5. Div 2 is list of tasks pushed in div 1
+6. Centered the body content using display flex, justify-content: center
+7.  
+
+To be Completed
